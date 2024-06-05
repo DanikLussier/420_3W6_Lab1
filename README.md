@@ -1,1 +1,2 @@
-# 420_3W6_Lab1
+# S03_Lab1
+Modélisation Diagrammes de classes UML
